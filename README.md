@@ -1,8 +1,8 @@
 # MechaCar_Statistical_Analysis
 ## Deliverable 1 Summary
-Call:
-lm(formula = mpg ~ vehicle_length + vehicle_weight + spoiler_angle + 
-    ground_clearance + AWD, data = input)
+    Call:
+    lm(formula = mpg ~ vehicle_length + vehicle_weight + spoiler_angle + 
+        ground_clearance + AWD, data = input)
 
 Residuals:
      Min       1Q   Median       3Q      Max 
