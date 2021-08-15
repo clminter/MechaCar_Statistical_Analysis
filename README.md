@@ -24,7 +24,8 @@
     F-statistic: 22.07 on 5 and 44 DF,  p-value: 5.35e-11
     
 1. The following variables provide a non-random amount of variance to the mpg values:
-- vehicle_length
-- ground_clearance
+    - vehicle_length
+    - ground_clearance
 
-2. Due to the very low overall p-value the slope of the linear model is not 0.
+2. Due to the very low overall p-value the slope of the linear model is not 0.  This means the X variables have an effect on Y(mpg).
+3. The R-squared value for this model is 0.7149. This model is accurate 71% of the time; reasonalby accurate at predicting miles per gallon.
