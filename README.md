@@ -23,7 +23,7 @@
     Multiple R-squared:  0.7149,	Adjusted R-squared:  0.6825 
     F-statistic: 22.07 on 5 and 44 DF,  p-value: 5.35e-11
     
-1. The following variables provide a non-random amount of variance to the mpg values:
+1. The following variables provide a non-random amount of variance to the mpg values and should be noted as to their significant effect on mpg:
     - vehicle_length
     - ground_clearance
 
