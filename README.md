@@ -29,3 +29,11 @@
 
 2. Due to the very low overall p-value the slope of the linear model is not 0.  This means the X variables have an effect on Y(mpg).
 3. The R-squared value for this model is 0.7149. This model is accurate 71% of the time; reasonalby accurate at predicting miles per gallon.
+
+## Summary Statistics on Suspension Coils
+
+![image](https://user-images.githubusercontent.com/81878169/129464330-7d7b463e-90a6-486a-9233-284bd010fca1.png)
+
+
+![image](https://user-images.githubusercontent.com/81878169/129464338-0386ccf2-80e7-4e3b-8aa5-d8c57efd600d.png)
+
