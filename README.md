@@ -79,3 +79,14 @@ This table indicates that, looking closer at the individual lots, Lot 3 is signi
     sample estimates:
     mean of x 
        1500.2
+       
+ #### Lot 3 Test Summary
+
+    data:  Lot3$PSI
+    t = -2.0916, df = 49, p-value = 0.04168
+    alternative hypothesis: true mean is not equal to 1500
+    95 percent confidence interval:
+     1492.431 1499.849
+    sample estimates:
+    mean of x 
+      1496.14
