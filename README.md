@@ -46,6 +46,7 @@ This table indicates that the total of all lots is within the specified 100PSI o
 This table indicates that, looking closer at the individual lots, Lot 3 is significantly out of spec by over 70PSI. This anomaly should be investigated further and the lot rejected.
 
 ## T-Tests on Suspension Coils
+The true difference in means are not equal to 0, meaning the alternative hypothesis is correct. Each test has a 95% confidence level.
 
 #### All Lots Test Summary
 
@@ -90,3 +91,22 @@ This table indicates that, looking closer at the individual lots, Lot 3 is signi
     sample estimates:
     mean of x 
       1496.14
+
+## Study Design: MechaCar vs Competition
+
+#### Safety Rating
+- Use a Chi-Squared test to show categorical differences in Safety Rating frequencies vs the Competition.
+- Null hypothosis is that all cars of the same class have the same safety rating.
+- Alternative hypothosis is that safety ratings vary within the same class.
+##### Safety ratings are categorized by numbers of stars for the following categories:
+- Overall Rating
+- Frontal Crash
+- Side Crash
+- Rollover
+- Data from NHTSA is readily available for safety ratings.
+
+#### Vehicle Cost
+- Use a Z-score to describe the vehicle's value relationship to a group of values from the Competition.
+- Null hypothosis is that all cars of the same class are the same cost.
+- Alternative hypothosis is that costs vary within the same class.
+- Costs of vehicles within the same class are required for the test.
