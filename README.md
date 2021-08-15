@@ -1,5 +1,5 @@
 # MechaCar_Statistical_Analysis
-## Deliverable 1 Summary
+## Linear Regression to Predict MPG
     Call:
     lm(formula = mpg ~ vehicle_length + vehicle_weight + spoiler_angle + 
         ground_clearance + AWD, data = input)
@@ -22,3 +22,9 @@
     Residual standard error: 8.774 on 44 degrees of freedom
     Multiple R-squared:  0.7149,	Adjusted R-squared:  0.6825 
     F-statistic: 22.07 on 5 and 44 DF,  p-value: 5.35e-11
+    
+1. The following variables provide a non-random amount of variance to the mpg values:
+- vehicle_length
+- ground_clearance
+
+2. Due to the very low overall p-value the slope of the linear model is not 0.
