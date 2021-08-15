@@ -35,11 +35,13 @@
 #### Total Summary Table of all lots of Suspension Coils
 
 ![image](https://user-images.githubusercontent.com/81878169/129464330-7d7b463e-90a6-486a-9233-284bd010fca1.png)
+
 This table indicates that the total of all lots is within the specified 100PSI of maximum variance.
 
 
 #### Total Summary Table of Suspension Coils by Lot
 
 ![image](https://user-images.githubusercontent.com/81878169/129464338-0386ccf2-80e7-4e3b-8aa5-d8c57efd600d.png)
+
 This table indicates that, looking closer at the individual lots, Lot 3 is significantly out of spec by over 70PSI. This anomaly should be investigated further and the lot rejected.
 
