@@ -45,3 +45,4 @@ This table indicates that the total of all lots is within the specified 100PSI o
 
 This table indicates that, looking closer at the individual lots, Lot 3 is significantly out of spec by over 70PSI. This anomaly should be investigated further and the lot rejected.
 
+## T-Tests on Suspension Coils
